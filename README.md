@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sunidhi Chaturvedi</h1>
-<h3 align="center">r passionate AIML engineer from India</h3>
+<h3 align="center"> Passionate AIML Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunidhichaturvedi&label=Profile%20views&color=0e75b6&style=flat" alt="sunidhichaturvedi" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sunidhichaturvedi](https://github.com/sunidhichaturvedi)
 
-- skills [frontend development](frontend development)
+- skills [frontend development](frontend development),python,numpy,pandas,matplotlib, scikit learn, seaborn
 
 - Extra curricular **DSA with C++**
 
