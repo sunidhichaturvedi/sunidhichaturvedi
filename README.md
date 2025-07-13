@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunidhichaturvedi" alt="sunidhichaturvedi" /></a> </p>
 
-- 🔭 I’m currently working on [Youtube clone](https://github.com/sunidhichaturvedi/Youtube-clone.git)
+- 🔭 I have  worked on [Youtube clone](https://github.com/sunidhichaturvedi/Youtube-clone.git)
 
 - 🌱 I’m currently learning Natural Language Processing
 
